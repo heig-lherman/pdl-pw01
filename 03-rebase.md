@@ -4,7 +4,8 @@ La commande `git rebase` est utilisée pour modifier l'historique d'une branche 
 
 ## Rejouer une branche sur une autre branche
 
-Pour rejouer une branche sur une autre branche, vous utilisez la commande `git rebase` suivi du nom de la branche sur laquelle vous souhaitez rejouer votre branche. Par exemple, si vous avez une branche "nouvelle-fonctionnalite" et que vous voulez la rejouer sur la branche "main", vous pouvez utiliser la commande suivante :
+Pour rejouer une branche sur une autre branche, vous utilisez la commande `git rebase` suivi du nom de la branche sur laquelle vous souhaitez rejouer votre branche. Par exemple, si vous avez une branche "nouvelle-fonctionnalite" et que vous voulez récupérer les dernières modifications de la branche "main", vous pouvez utiliser la commande suivante :
+
 
 ```bash
 git checkout nouvelle-fonctionnalite

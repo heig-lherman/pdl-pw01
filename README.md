@@ -15,6 +15,7 @@ L'objectif de ce laboratoire est de vous familiariser avec l'environnement qui n
 
 ## Exercices
 
+- Exécuter le ficher `exercices.sh` de manière à initialiser des branches et des commits.
 - Créer une branche "nouvelle-fonctionalite" à partir de la branche main.
 - Fusionner la branche "fusion" dans la branche "main".
 - Rappatrier les modifications faite sur la branche "main" dans la branche "rebase" et résoudre les éventuels conflits.

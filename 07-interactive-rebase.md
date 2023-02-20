@@ -31,9 +31,6 @@ git checkout develop
 git rebase -i HEAD~2
 ```
 
-TODO
-
-
 En résumé, le rebase interactif est un outil très puissant, mais il doit être utilisé avec prudence car il modifie l'historique des commits, ce qui peut entraîner des conflits pour les autres développeurs qui travaillent sur la même branche. Il est donc recommandé de ne pas utiliser le rebase interactif sur les branches partagées avec d'autres développeurs.
 
 

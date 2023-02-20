@@ -84,3 +84,5 @@ echo "" >> files/article.txt
 git add files/article.txt
 git commit -m "Ajoute l'élément 5 de la liste"
 
+# Retourne sur la branche main
+git checkout main
