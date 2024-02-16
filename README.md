@@ -2,7 +2,7 @@
 
 L'objectif de ce laboratoire est de vous familiariser avec l'environnement qui nous accompagnera durant le semestre et de former des groupes.
 
-## Objectifs
+## Etapes
 
 - Utiliser apt, yum, rmp (linux), [brew](https://brew.sh/) (macos), ou [chocolatey](https://chocolatey.org/) (windows) pour installer votre environnement git.
 - Suivre le tutoriel [Introduction to GitHub](https://github.com/skills/introduction-to-github).
@@ -10,7 +10,7 @@ L'objectif de ce laboratoire est de vous familiariser avec l'environnement qui n
 - Se connecter à GitHub avec [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 - Signer vos commits avec [GPG](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#gpg-commit-signature-verification).
 - Lire les tutoriels 1 à 15 de ce repository.
-- Effectuer les exercices et pousser vos modification sur GitHub.
+- Effectuer les exercices ci-dessous et pousser vos modification sur GitHub.
 
 ## Exercices
 
