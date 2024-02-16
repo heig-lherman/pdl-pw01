@@ -9,7 +9,6 @@ L'objectif de ce laboratoire est de vous familiariser avec l'environnement qui n
 - Configurer GitHub avec l'[authentification à deux facteurs](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/configuring-two-factor-authentication).
 - Se connecter à GitHub avec [SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 - Signer vos commits avec [GPG](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification#gpg-commit-signature-verification).
-- Accepter le premier assignment GitHub classroom.
 - Lire les tutoriels 1 à 15 de ce repository.
 - Effectuer les exercices et pousser vos modification sur GitHub.
 
