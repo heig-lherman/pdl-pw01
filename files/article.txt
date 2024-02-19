@@ -1,0 +1,4 @@
+# Rebase interactif
+
+L'objectif de ce fichier est de s'entrainer à utiliser le rebase interactif.
+
