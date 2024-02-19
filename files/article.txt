@@ -3,3 +3,7 @@
 L'objectif de ce fichier est de s'entrainer à utiliser le rebase interactif.
 
 Une liste d'éléments:
+- element 1
+- element 2
+- element 3
+- element 4
